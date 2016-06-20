@@ -1,25 +1,24 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# Cup of Tea: Find the words to help yourself and others
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
-
-## Getting Started
-
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+This is the landing page for Cup of Tea. 
+Cup of Tea aims to offer its users the ability to engage in “social prescribing” by
+*Identifying peri natal depression in self and others.
+*Accessing messaging support on how to communicate concern about your own mental health and that of others with clarity and without judgement.
+*Identifying and linking to professional, community and/or social support networks.
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Cup of Tea was conceptualised and researched by Team Mumoji in the second Mums in Tech cohort.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Liz Lee: UX, Research
+Jen Cowan: Research
+Virginia Dooley: Web Dev
+* https://twitter.com/vcdooley
+* https://github.com/virginiadooley
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Design/Theme
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat). Greyscale Theme
 
 ## Copyright and License
 
